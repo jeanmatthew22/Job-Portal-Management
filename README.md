@@ -16,7 +16,6 @@ Welcome to our Job Portal, a secure platform designed to streamline the job appl
 
 ![Screenshot](public/readme/admin1.png)
 ![Screenshot](public/readme/admin2.png)
-![Screenshot](public/readme/admin3.png)
 
 ### User-Friendly Interface:
 
